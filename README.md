@@ -1,3 +1,3 @@
 ### about me: 
-<h2 align="center">Hi I'm ross carter </h2>
+<h2 align="left">Hi i'm ross carter </h2>
 
